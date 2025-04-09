@@ -5,7 +5,7 @@
 # Important links
 
 - repository URL: https://github.com/neurospin/ciel
-- site URL: https://ciel.neurospin.fr
+- site URL: https://neurospin.github.io/ciel
 
 # How to contribute
 
